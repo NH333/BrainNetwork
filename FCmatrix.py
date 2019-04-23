@@ -13,7 +13,7 @@ plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
 
 
 """
-读取原文件txt的rmri数据，存储为array类型
+读取原文件txt的fmri数据，存储为array类型
 """
 fp = open(r"C:\\Users\\84241\\Desktop\\vscode_Python\\课题\\rmsts116_0050952.txt")
 line = fp.readline()
